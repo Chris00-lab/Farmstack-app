@@ -7,6 +7,9 @@ FARM signifie **_ FA _**STAPI - **R**eact - **M**ongo DB
 <h2>Partie backend</h2>
 <br/>
 <h3>FASTAPI</h3>
+
+<br/>
+
 1. création du dossier backend  <br/>
 2. création de fichier requirements.txt dans backend et lister les dépendances. <br/>
 3. Installation du virtual environment pipenv <br/>
@@ -14,7 +17,7 @@ FARM signifie **_ FA _**STAPI - **R**eact - **M**ongo DB
 4. lancer le virtual environment <br/>
 > pipenv shell <br/>
 5. Installer les dépendances dans pipenv <br/>
-> pip install -r ./requirements.txt <br/>
+> pip install -r requirements.txt <br/>
 6. Lancer Uvicorn <br/>
 > unicorn main:app --reload  <br/>
 
