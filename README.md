@@ -2,7 +2,7 @@
 Ce projet vise à la création d'un application FARM-STACK <br/>
 ----------------------------------------------------------
 <br/>
-FARM signifie **_FA_**STAPI - **R**eact - **M**ongo DB 
+FARM signifie **_ FA _**STAPI - **R**eact - **M**ongo DB 
 
 <h2>Partie backend</h2>
 <br/>
@@ -14,7 +14,7 @@ FARM signifie **_FA_**STAPI - **R**eact - **M**ongo DB
 4. lancer le virtual environment <br/>
 > pipenv shell <br/>
 5. Installer les dépendances dans pipenv <br/>
->  pip install -r ./requirements.txt <br/>
+>pip install -r ./requirements.txt <br/>
 6. Lancer Uvicorn <br/>
 > unicorn main:app --reload  <br/>
 
