@@ -15,6 +15,8 @@ pip install pipenv <br/>
 pipenv shell <br/>
 5. Installer les dépendances dans pipenv <br/>
 pip install -r ./requirements.txt <br/>
+6. Lancer Uvicorn <br/>
+> unicorn main:app --reload  
 6. Maintenance on peut commencer à coder <br/>
 
 
@@ -24,5 +26,7 @@ pip install -r ./requirements.txt <br/>
 
 <br/>
 
-1. Télécharger et installer [NodeJs] (https://nodejs.org/en/)
-
+1. Télécharger et installer [NodeJs] (https://nodejs.org/en/) <br/>
+2. Créer un dossier frontend 
+3. Creer un application react 
+npx create-react-app
