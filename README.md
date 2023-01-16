@@ -10,14 +10,14 @@ FARM signifie **_FA_**STAPI - **R**eact - **M**ongo DB
 1. création du dossier backend  <br/>
 2. création de fichier requirements.txt dans backend et lister les dépendances. <br/>
 3. Installation du virtual environment pipenv <br/>
-pip install pipenv <br/>
+> pip install pipenv <br/>
 4. lancer le virtual environment <br/>
-pipenv shell <br/>
+> pipenv shell <br/>
 5. Installer les dépendances dans pipenv <br/>
-pip install -r ./requirements.txt <br/>
+> pip install -r ./requirements.txt <br/>
 6. Lancer Uvicorn <br/>
 > unicorn main:app --reload  
-6. Maintenance on peut commencer à coder <br/>
+Maintenance on peut commencer à coder <br/>
 
 
 <h1>Partie frontend</1>
@@ -27,6 +27,9 @@ pip install -r ./requirements.txt <br/>
 <br/>
 
 1. Télécharger et installer [NodeJs] (https://nodejs.org/en/) <br/>
-2. Créer un dossier frontend 
-3. Creer un application react 
-npx create-react-app
+2. Créer un dossier frontend <br/>
+3. Créer un application react <br/>
+> npx create-react-app <br/>
+4. Lancer npm <br/>
+> npm start <br/>
+Maintenant on peut commencer à coder la partie frontend
